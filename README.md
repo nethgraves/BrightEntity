@@ -10,11 +10,9 @@ Some Unisoc devices has an issue where the maximum brightness level is artificia
 
 - Transsion (Itel/Tecno/Infinix)
 
-
 ## 📦 Installation
-
-1. Download the latest `BrightEntity.zip`
-2. Flash via **Magisk** or **KernelSU**, **KernelSU Next**, **SukiSU Ultra**, **KittiSU**, **APatch/FolkPatch**
+1. Download the latest `BrightEntity.zip`.
+2. Make sure [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) or [Mountify](https://github.com/backslashxx/mountify/releases) is installed on your root managers (**Magisk** or **KernelSU**, **KernelSU Next**, **SukiSU Ultra**, **KittiSU**, **APatch/FolkPatch**). After doing so, flash the module.
 3. Reboot your device
 4. Brightness will be back to normal as is!
 
