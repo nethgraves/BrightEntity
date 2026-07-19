@@ -1,3 +1,5 @@
+<img width="3264" height="1836" alt="50230" src="https://github.com/user-attachments/assets/1a0efa5c-0fab-4c6a-b265-5c883eadb252" />
+
 # BrightEntity
 
 A Magisk/KernelSU module to fix the issue where brightness is too low when maximized on Transsion devices based on Unisoc.
