@@ -1,6 +1,6 @@
 {
   "version": "v1.0-mediatek",
-  "versionCode": 2,
+  "versionCode": 1,
   "zipUrl": "https://github.com/nethgraves/BrightEntity/releases/download/1.0-mtk/BrightEntity_1.0-mediatek.zip",
   "changelog": "https://raw.githubusercontent.com/nethgraves/BrightEntity/refs/heads/master/CHANGELOGS.md"
 }
