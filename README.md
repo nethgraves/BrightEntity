@@ -13,7 +13,6 @@ Some Unisoc devices has an issue where the maximum brightness level is artificia
 ## ✅ Compatible Devices
 
 - Transsion (Itel/Tecno/Infinix)
-- Some realme devices (if occur)
 
 ## 📦 How to install?
 1. Make sure [Hybrid Mount](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases) or [Mountify](https://github.com/backslashxx/mountify/releases) metamodule is installed. After doing so, you're good to go.
